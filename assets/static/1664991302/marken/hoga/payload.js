@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/hoga", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kuechenarmatur-mit-herausziehbarer-geschirrbrause-supra-hoga-8926834-1.jpg":"\u002Fassets\u002Fimages\u002Fkuechenarmatur-mit-herausziehbarer-geschirrbrause-supra-hoga-8926834-1.webp"}}],fetch:{},mutations:void 0});

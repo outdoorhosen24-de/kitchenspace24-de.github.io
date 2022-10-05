@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/obi-selection", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-kuechenarmatur-mindelo-verchromt-obi-selection-4627477-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-kuechenarmatur-mindelo-verchromt-obi-selection-4627477-1.webp"}}],fetch:{},mutations:void 0});
