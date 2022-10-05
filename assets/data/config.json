@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "kitchenspace24.de",
+    "hostname": "https://www.kitchenspace24.de/",
+    "email": "kitchenspace24.desurrealnetworks.io",
+    "organization": "kitchenspace24.de",
+    "logoText": "Kitchenspace24.de",
+    "title": "K\u00fcchenarmaturen",
+    "subline": "Der Online Shop f\u00fcr K\u00fcchenarmaturen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7662331",
+        "5036793",
+        "7192099",
+        "7509441",
+        "5403225",
+        "7526098"
+    ],
+    "winnerProducts": [
+        "4733457",
+        "3141397",
+        "7526015"
+    ],
+    "featuredCategories": [
+        "Einhebelmischer",
+        "Wandauslaufventil",
+        "Zweigriffarmatur",
+        "Zweigriffarmatur",
+        "Wandauslaufventil",
+        "Zweigriffarmatur"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "K\u00fcchenarmaturen",
-        "featureText": "Your featured text goes here",
+        "featureText": "K\u00fcchenarmaturen sind ein wesentlicher Bestandteil jeder K\u00fcche. Sie sorgen f\u00fcr die richtige Wasserversorgung und sind somit f\u00fcr die Gesundheit und das Wohlbefinden der Menschen in der K\u00fcche unerl\u00e4sslich. Die Auswahl an K\u00fcchenarmaturen ist heutzutage sehr gro\u00df und so kann jeder seine perfekte Armatur finden. Egal ob klassisch oder modern, hier findet jeder die passende K\u00fcchenarmatur.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "K\u00fcchenarmaturen-Shop: Die besten Armaturen f\u00fcr Ihre K\u00fcche",
+            "metaDescription": "K\u00fcchenarmaturen in bester Qualit\u00e4t! Hier findest du eine gro\u00dfe Auswahl an hochwertigen K\u00fcchenarmaturen zu g\u00fcnstigen Preisen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "K\u00fcchenarmaturen: Die besten Modelle f\u00fcr Ihre K\u00fcche",
+                    "text": "K\u00fcchenarmaturen sind ein wesentlicher Bestandteil jeder K\u00fcche. Sie sind nicht nur f\u00fcr die Wasserversorgung zust\u00e4ndig, sondern auch f\u00fcr die Entsorgung von Abwasser. Daher ist es wichtig, bei der Auswahl der richtigen K\u00fcchenarmaturen einige Dinge zu beachten.\n\nDie erste Frage, die Sie sich stellen sollten, ist, ob Sie eine einzelne oder doppelte K\u00fcchenarmatur ben\u00f6tigen. Eine einzelne Armatur ist in der Regel ausreichend, wenn Sie nur einen Wasserhahn ben\u00f6tigen. Wenn Sie jedoch zwei Wasserh\u00e4hne ben\u00f6tigen, sollten Sie \u00fcber die Anschaffung einer doppelten K\u00fcchenarmatur nachdenken.\n\nDie zweite Frage, die Sie sich stellen sollten, ist, welche Art von K\u00fcchenarmatur Sie ben\u00f6tigen. Es gibt viele verschiedene Arten von K\u00fcchenarmaturen auf dem Markt, von einfachen Wasserh\u00e4hnen bis hin zu Armaturen mit integrierten Spr\u00fchsystemen. W\u00e4hlen Sie die Armatur, die am besten zu Ihren Bed\u00fcrfnissen und Ihrer K\u00fcche passt.\n\nDie dritte Frage, die Sie sich stellen sollten, ist, welche Gr\u00f6\u00dfe K\u00fcchenarmatur Sie ben\u00f6tigen. K\u00fcchenarmaturen sind in verschiedenen Gr\u00f6\u00dfen erh\u00e4ltlich, von kleinen Armaturen f\u00fcr kleine K\u00fcchen bis hin zu gro\u00dfen Armaturen f\u00fcr gro\u00dfe K\u00fcchen. W\u00e4hlen Sie die Armatur, die am besten zu Ihrer K\u00fcchengr\u00f6\u00dfe passt.\n\nDie vierte Frage, die Sie sich stellen sollten, ist,"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "K\u00fcchenarmaturen Shop",
+            "metaDescription": "K\u00fcchenarmaturen Shop - Hier findest du eine gro\u00dfe Auswahl an K\u00fcchenarmaturen zu g\u00fcnstigen Preisen!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "K\u00fcchenarmaturen-Hersteller",
+            "metaDescription": "K\u00fcchenarmaturen-Hersteller - Wir sind ein f\u00fchrender Hersteller von K\u00fcchenarmaturen. Wir bieten eine gro\u00dfe Auswahl an hochwertigen K\u00fcchenarmaturen f\u00fcr jeden Bedarf.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "K\u00fcchenarmaturen: $PRODUKT",
+        "defaultMetaDescription": "K\u00fcchenarmaturen von $HERSTELLER in gro\u00dfer Auswahl. Finden Sie Ihre Traumarmatur f\u00fcr Ihre K\u00fcche. Jetzt bei $KATEGORIE st\u00f6bern!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "K\u00fcchenarmaturen: $KATEGORIE f\u00fcr Ihre K\u00fcche",
+        "defaultMetaDescription": "K\u00fcchenarmaturen in gro\u00dfer Auswahl bei $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "K\u00fcchenarmaturen von $HERSTELLER - hochwertige Armaturen f\u00fcr die K\u00fcche in modernem Design. Made in Germany. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "K\u00fcchenarmaturen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "K\u00fcchenarmaturen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "K\u00fcchenarmaturen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
