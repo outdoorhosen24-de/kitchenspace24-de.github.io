@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "kitchenspace24.de",
     "hostname": "https://www.kitchenspace24.de/",
     "email": "kitchenspace24.desurrealnetworks.io",
     "organization": "kitchenspace24.de",
     "logoText": "Kitchenspace24.de",
-    "title": "K\u00fcchenarmaturen",
-    "subline": "Der Online Shop f\u00fcr K\u00fcchenarmaturen",
+    "title": "Küchenarmaturen",
+    "subline": "Der Online Shop für Küchenarmaturen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "K\u00fcchenarmaturen",
-        "featureText": "K\u00fcchenarmaturen sind ein wesentlicher Bestandteil jeder K\u00fcche. Sie sorgen f\u00fcr die richtige Wasserversorgung und sind somit f\u00fcr die Gesundheit und das Wohlbefinden der Menschen in der K\u00fcche unerl\u00e4sslich. Die Auswahl an K\u00fcchenarmaturen ist heutzutage sehr gro\u00df und so kann jeder seine perfekte Armatur finden. Egal ob klassisch oder modern, hier findet jeder die passende K\u00fcchenarmatur.",
+        "mainKeyword": "Küchenarmaturen",
+        "featureText": "Küchenarmaturen sind ein wesentlicher Bestandteil jeder Küche. Sie sorgen für die richtige Wasserversorgung und sind somit für die Gesundheit und das Wohlbefinden der Menschen in der Küche unerlässlich. Die Auswahl an Küchenarmaturen ist heutzutage sehr groß und so kann jeder seine perfekte Armatur finden. Egal ob klassisch oder modern, hier findet jeder die passende Küchenarmatur.",
         "index": {
-            "title": "K\u00fcchenarmaturen-Shop: Die besten Armaturen f\u00fcr Ihre K\u00fcche",
-            "metaDescription": "K\u00fcchenarmaturen in bester Qualit\u00e4t! Hier findest du eine gro\u00dfe Auswahl an hochwertigen K\u00fcchenarmaturen zu g\u00fcnstigen Preisen.",
+            "title": "Küchenarmaturen-Shop: Die besten Armaturen für Ihre Küche",
+            "metaDescription": "Küchenarmaturen in bester Qualität! Hier findest du eine große Auswahl an hochwertigen Küchenarmaturen zu günstigen Preisen.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "K\u00fcchenarmaturen: Die besten Modelle f\u00fcr Ihre K\u00fcche",
-                    "text": "K\u00fcchenarmaturen sind ein wesentlicher Bestandteil jeder K\u00fcche. Sie sind nicht nur f\u00fcr die Wasserversorgung zust\u00e4ndig, sondern auch f\u00fcr die Entsorgung von Abwasser. Daher ist es wichtig, bei der Auswahl der richtigen K\u00fcchenarmaturen einige Dinge zu beachten.\n\nDie erste Frage, die Sie sich stellen sollten, ist, ob Sie eine einzelne oder doppelte K\u00fcchenarmatur ben\u00f6tigen. Eine einzelne Armatur ist in der Regel ausreichend, wenn Sie nur einen Wasserhahn ben\u00f6tigen. Wenn Sie jedoch zwei Wasserh\u00e4hne ben\u00f6tigen, sollten Sie \u00fcber die Anschaffung einer doppelten K\u00fcchenarmatur nachdenken.\n\nDie zweite Frage, die Sie sich stellen sollten, ist, welche Art von K\u00fcchenarmatur Sie ben\u00f6tigen. Es gibt viele verschiedene Arten von K\u00fcchenarmaturen auf dem Markt, von einfachen Wasserh\u00e4hnen bis hin zu Armaturen mit integrierten Spr\u00fchsystemen. W\u00e4hlen Sie die Armatur, die am besten zu Ihren Bed\u00fcrfnissen und Ihrer K\u00fcche passt.\n\nDie dritte Frage, die Sie sich stellen sollten, ist, welche Gr\u00f6\u00dfe K\u00fcchenarmatur Sie ben\u00f6tigen. K\u00fcchenarmaturen sind in verschiedenen Gr\u00f6\u00dfen erh\u00e4ltlich, von kleinen Armaturen f\u00fcr kleine K\u00fcchen bis hin zu gro\u00dfen Armaturen f\u00fcr gro\u00dfe K\u00fcchen. W\u00e4hlen Sie die Armatur, die am besten zu Ihrer K\u00fcchengr\u00f6\u00dfe passt.\n\nDie vierte Frage, die Sie sich stellen sollten, ist,"
+                    "title": "Küchenarmaturen: Die besten Modelle für Ihre Küche",
+                    "text": "Küchenarmaturen sind ein wesentlicher Bestandteil jeder Küche. Sie sind nicht nur für die Wasserversorgung zuständig, sondern auch für die Entsorgung von Abwasser. Daher ist es wichtig, bei der Auswahl der richtigen Küchenarmaturen einige Dinge zu beachten.\n\nDie erste Frage, die Sie sich stellen sollten, ist, ob Sie eine einzelne oder doppelte Küchenarmatur benötigen. Eine einzelne Armatur ist in der Regel ausreichend, wenn Sie nur einen Wasserhahn benötigen. Wenn Sie jedoch zwei Wasserhähne benötigen, sollten Sie über die Anschaffung einer doppelten Küchenarmatur nachdenken.\n\nDie zweite Frage, die Sie sich stellen sollten, ist, welche Art von Küchenarmatur Sie benötigen. Es gibt viele verschiedene Arten von Küchenarmaturen auf dem Markt, von einfachen Wasserhähnen bis hin zu Armaturen mit integrierten Sprühsystemen. Wählen Sie die Armatur, die am besten zu Ihren Bedürfnissen und Ihrer Küche passt.\n\nDie dritte Frage, die Sie sich stellen sollten, ist, welche Größe Küchenarmatur Sie benötigen. Küchenarmaturen sind in verschiedenen Größen erhältlich, von kleinen Armaturen für kleine Küchen bis hin zu großen Armaturen für große Küchen. Wählen Sie die Armatur, die am besten zu Ihrer Küchengröße passt.\n\nDie vierte Frage, die Sie sich stellen sollten, ist,"
                 }
             ]
         },
         "shop": {
-            "title": "K\u00fcchenarmaturen Shop",
-            "metaDescription": "K\u00fcchenarmaturen Shop - Hier findest du eine gro\u00dfe Auswahl an K\u00fcchenarmaturen zu g\u00fcnstigen Preisen!",
+            "title": "Küchenarmaturen Shop",
+            "metaDescription": "Küchenarmaturen Shop - Hier findest du eine große Auswahl an Küchenarmaturen zu günstigen Preisen!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "K\u00fcchenarmaturen-Hersteller",
-            "metaDescription": "K\u00fcchenarmaturen-Hersteller - Wir sind ein f\u00fchrender Hersteller von K\u00fcchenarmaturen. Wir bieten eine gro\u00dfe Auswahl an hochwertigen K\u00fcchenarmaturen f\u00fcr jeden Bedarf.",
+            "title": "Küchenarmaturen-Hersteller",
+            "metaDescription": "Küchenarmaturen-Hersteller - Wir sind ein führender Hersteller von Küchenarmaturen. Wir bieten eine große Auswahl an hochwertigen Küchenarmaturen für jeden Bedarf.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "K\u00fcchenarmaturen: $PRODUKT",
-        "defaultMetaDescription": "K\u00fcchenarmaturen von $HERSTELLER in gro\u00dfer Auswahl. Finden Sie Ihre Traumarmatur f\u00fcr Ihre K\u00fcche. Jetzt bei $KATEGORIE st\u00f6bern!",
+        "defaultTitle": "Küchenarmaturen: $PRODUKT",
+        "defaultMetaDescription": "Küchenarmaturen von $HERSTELLER in großer Auswahl. Finden Sie Ihre Traumarmatur für Ihre Küche. Jetzt bei $KATEGORIE stöbern!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "K\u00fcchenarmaturen: $KATEGORIE f\u00fcr Ihre K\u00fcche",
-        "defaultMetaDescription": "K\u00fcchenarmaturen in gro\u00dfer Auswahl bei $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
+        "defaultTitle": "Küchenarmaturen: $KATEGORIE für Ihre Küche",
+        "defaultMetaDescription": "Küchenarmaturen in großer Auswahl bei $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "K\u00fcchenarmaturen von $HERSTELLER - hochwertige Armaturen f\u00fcr die K\u00fcche in modernem Design. Made in Germany. Jetzt online bestellen!",
+        "defaultMetaDescription": "Küchenarmaturen von $HERSTELLER - hochwertige Armaturen für die Küche in modernem Design. Made in Germany. Jetzt online bestellen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "K\u00fcchenarmaturen",
+            "linkTitle": "Küchenarmaturen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "K\u00fcchenarmaturen Shop",
+            "linkTitle": "Küchenarmaturen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "K\u00fcchenarmaturen Marken",
+            "linkTitle": "Küchenarmaturen Marken",
             "publish": true
         },
         {
