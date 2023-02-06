@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "kitchenspace24.de",
     "hostname": "https://www.kitchenspace24.de/",
     "email": "kitchenspace24.de@surrealnetworks.io",
     "organization": "kitchenspace24.de",
     "logoText": "Kitchenspace24.de",
     "title": "Küchenarmaturen",
-    "subline": "Der Online Shop für Küchenarmaturen",
+    "subline": "Online-Shop für Küchenarmaturen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Küchenarmaturen",
-        "featureText": "Küchenarmaturen sind ein wesentlicher Bestandteil jeder Küche. Sie sorgen für die richtige Wasserversorgung und sind somit für die Gesundheit und das Wohlbefinden der Menschen in der Küche unerlässlich. Die Auswahl an Küchenarmaturen ist heutzutage sehr groß und so kann jeder seine perfekte Armatur finden. Egal ob klassisch oder modern, hier findet jeder die passende Küchenarmatur.",
+        "featureText": "Willkommen im Online-Shop für Küchenarmaturen in Top-Qualität! Wir bieten eine große Auswahl an Produkten wie Wandauslaufventile, Einhebelmischer und Zweigriffarmaturen. Unsere Auswahl umfasst bekannte Marken wie Sanitop-Wingenroth, Hansgrohe, Grohe, Schütte und viele mehr. Ganz gleich, ob Sie nach einer bestimmten Marke suchen oder einfach nur nach der besten Option für Ihre Küche stöbern möchten, wir haben das Richtige für Sie. Stöbern Sie noch heute in unserer Kollektion von Küchenarmaturen und finden Sie die perfekte Armatur für Ihre Küche.",
         "index": {
             "title": "Küchenarmaturen-Shop: Die besten Armaturen für Ihre Küche",
-            "metaDescription": "Küchenarmaturen in bester Qualität! Hier findest du eine große Auswahl an hochwertigen Küchenarmaturen zu günstigen Preisen.",
+            "metaDescription": "Küchenarmaturen in bester Qualität! Auf kitchenspace24.de findest du eine große Auswahl an hochwertigen Küchenarmaturen zu günstigen Preisen.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -63,18 +63,18 @@
         },
         "shop": {
             "title": "Küchenarmaturen Shop",
-            "metaDescription": "Küchenarmaturen Shop - Hier findest du eine große Auswahl an Küchenarmaturen zu günstigen Preisen!",
+            "metaDescription": "Küchenarmaturen Shop - Bei uns findest du eine große Auswahl an Küchenarmaturen, Wandauslaufventil, Einhebelmischer und Zweigriffarmatur zu günstigen Preisen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Küchenarmaturen-Hersteller",
-            "metaDescription": "Küchenarmaturen-Hersteller - Wir sind ein führender Hersteller von Küchenarmaturen. Wir bieten eine große Auswahl an hochwertigen Küchenarmaturen für jeden Bedarf.",
+            "title": "Hersteller für Küchenarmaturen",
+            "metaDescription": "Entdecken Sie die große Auswahl an hochwertigen Küchenarmaturenmarken bei kitchenspace24.de. Von Hansgrohe und Grohe bis hin zu Verosan und Hoga.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Küchenarmaturen: $PRODUKT",
-        "defaultMetaDescription": "Küchenarmaturen von $HERSTELLER in großer Auswahl. Finden Sie Ihre Traumarmatur für Ihre Küche. Jetzt bei $KATEGORIE stöbern!",
+        "defaultTitle": "$PRODUKT | kitchenspace24.de",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER in großer Auswahl. Finden Sie Ihre Traumarmatur für Ihre Küche. Viele weitere Produkte aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -90,7 +90,7 @@
     },
     "categorySeo": {
         "defaultTitle": "Küchenarmaturen: $KATEGORIE für Ihre Küche",
-        "defaultMetaDescription": "Küchenarmaturen in großer Auswahl bei $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
+        "defaultMetaDescription": "$KATEGORIE in großer Auswahl bei kitchenspace24.de. Jetzt $KATEGORIE online bestellen und schnell geliefert bekommen auf kitchenspace24.de.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,7 +116,7 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
+        "defaultTitle": "Küchenarmaturen von $HERSTELLER",
         "defaultMetaDescription": "Küchenarmaturen von $HERSTELLER - hochwertige Armaturen für die Küche in modernem Design. Made in Germany. Jetzt online bestellen!",
         "defaultRobots": "index, follow",
         "brands": [
