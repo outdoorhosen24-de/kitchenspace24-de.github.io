@@ -1,176 +1,179 @@
 {
-    "configIsReady": true,
-    "domain": "kitchenspace24.de",
-    "hostname": "https://www.kitchenspace24.de/",
-    "email": "kitchenspace24.de@surrealnetworks.io",
-    "organization": "kitchenspace24.de",
-    "logoText": "Kitchenspace24.de",
-    "title": "Küchenarmaturen",
-    "subline": "Online-Shop für Küchenarmaturen",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "7662331",
-        "5036793",
-        "7192099",
-        "7509441",
-        "5403225",
-        "7526098"
-    ],
-    "winnerProducts": [
-        "4733457",
-        "3141397",
-        "7526015"
-    ],
-    "featuredCategories": [
-        "Einhebelmischer",
-        "Wandauslaufventil",
-        "Zweigriffarmatur",
-        "Zweigriffarmatur",
-        "Wandauslaufventil",
-        "Zweigriffarmatur"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Küchenarmaturen",
-        "featureText": "Willkommen im Online-Shop für Küchenarmaturen in Top-Qualität! Wir bieten eine große Auswahl an Produkten wie Wandauslaufventile, Einhebelmischer und Zweigriffarmaturen. Unsere Auswahl umfasst bekannte Marken wie Sanitop-Wingenroth, Hansgrohe, Grohe, Schütte und viele mehr. Ganz gleich, ob Sie nach einer bestimmten Marke suchen oder einfach nur nach der besten Option für Ihre Küche stöbern möchten, wir haben das Richtige für Sie. Stöbern Sie noch heute in unserer Kollektion von Küchenarmaturen und finden Sie die perfekte Armatur für Ihre Küche.",
-        "index": {
-            "title": "Küchenarmaturen-Shop: Die besten Armaturen für Ihre Küche",
-            "metaDescription": "Küchenarmaturen in bester Qualität! Auf kitchenspace24.de findest du eine große Auswahl an hochwertigen Küchenarmaturen zu günstigen Preisen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei KitchenSpace24 - Ihrem Online-Shop für Küchenarmaturen",
-                        "text": "KitchenSpace24 ist Ihr zuverlässiger Online-Shop für hochwertige Küchenarmaturen. Unser Sortiment umfasst eine breite Auswahl an Wandauslaufventilen, Einhebelmischern und Zweigriffarmaturen, die für jeden Geschmack und jeden Bedarf das passende Angebot bereithalten. Wir setzen auf Qualität und Langlebigkeit und bieten Ihnen darum nur Produkte renommierter Hersteller an. Überzeugen Sie sich selbst von unserem breiten Angebot und bestellen Sie noch heute Ihre neue Küchenarmatur bei KitchenSpace24."
-                    },
-                    {
-                        "title": "Kategorie: Wandauslaufventil",
-                        "text": "Entdecken Sie unsere große Auswahl an Wandauslaufventilen für Ihre Küche. Unsere Armaturen zeichnen sich durch ihre hohe Funktionalität und ihr modernes Design aus. Wir bieten Ihnen eine breite Palette an verschiedenen Größen, Farben und Stilen, so dass Sie das perfekte Wandauslaufventil für Ihre Küche finden können. Alle unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren eine lange Lebensdauer. Überzeugen Sie sich selbst von der Qualität unserer Wandauslaufventile und bestellen Sie noch heute Ihr neues Armaturen-Highlight!"
-                    },
-                    {
-                        "title": "Kategorie: Einhebelmischer",
-                        "text": "Einhebelmischer sind ein Muss in jeder modernen Küche. Sie bieten eine einfache Bedienung und ermöglichen es Ihnen, Wasser in den verschiedensten Strahlarten zu regulieren. Unsere Einhebelmischer zeichnen sich durch ihr hochwertiges Design und ihre langlebige Funktionalität aus. Wir bieten Ihnen eine große Auswahl an verschiedenen Farben und Stilen, um das perfekte Armaturen-Highlight für Ihre Küche zu finden. Überzeugen Sie sich von der Qualität unserer Einhebelmischer und bestellen Sie noch heute Ihr neues Armaturen-Highlight!"
-                    },
-                    {
-                        "title": "Kategorie: Zweigriffarmatur",
-                        "text": "Unsere Zweigriffarmaturen bieten Ihnen eine komfortable Bedienung und ermöglichen es Ihnen, Wasser in den verschiedensten Strahlarten zu regulieren. Unsere Armaturen zeichnen sich durch ihr hochwertiges Design und ihre langlebige Funktionalität aus. Wir bieten Ihnen eine große Auswahl an verschiedenen Farben und Stilen, um das perfekte Armaturen-Highlight für Ihre Küche zu finden. Überzeugen Sie sich von der Qualität unserer Zweigriffarmaturen und bestellen Sie noch heute Ihr neues Armaturen-Highlight!"
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Küchenarmaturen Shop",
-            "metaDescription": "Küchenarmaturen Shop - Bei uns findest du eine große Auswahl an Küchenarmaturen, Wandauslaufventil, Einhebelmischer und Zweigriffarmatur zu günstigen Preisen.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Hersteller für Küchenarmaturen",
-            "metaDescription": "Entdecken Sie die große Auswahl an hochwertigen Küchenarmaturenmarken bei kitchenspace24.de. Von Hansgrohe und Grohe bis hin zu Verosan und Hoga.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | kitchenspace24.de",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER in großer Auswahl. Finden Sie Ihre Traumarmatur für Ihre Küche. Viele weitere Produkte aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "kitchenspace24.de",
+  "hostname": "https://www.kitchenspace24.de/",
+  "email": "kitchenspace24.de@surrealnetworks.io",
+  "organization": "kitchenspace24.de",
+  "logoText": "Kitchenspace24.de",
+  "title": "K\u00fcchenarmaturen",
+  "subline": "Online-Shop f\u00fcr K\u00fcchenarmaturen",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "7662331",
+    "5036793",
+    "7192099",
+    "7509441",
+    "5403225",
+    "7526098"
+  ],
+  "winnerProducts": [
+    "4733457",
+    "3141397",
+    "7526015"
+  ],
+  "featuredCategories": [
+    "Einhebelmischer",
+    "Wandauslaufventil",
+    "Zweigriffarmatur",
+    "Zweigriffarmatur",
+    "Wandauslaufventil",
+    "Zweigriffarmatur"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "K\u00fcchenarmaturen",
+    "featureText": "Willkommen im Online-Shop f\u00fcr K\u00fcchenarmaturen in Top-Qualit\u00e4t! Wir bieten eine gro\u00dfe Auswahl an Produkten wie Wandauslaufventile, Einhebelmischer und Zweigriffarmaturen. Unsere Auswahl umfasst bekannte Marken wie Sanitop-Wingenroth, Hansgrohe, Grohe, Sch\u00fctte und viele mehr. Ganz gleich, ob Sie nach einer bestimmten Marke suchen oder einfach nur nach der besten Option f\u00fcr Ihre K\u00fcche st\u00f6bern m\u00f6chten, wir haben das Richtige f\u00fcr Sie. St\u00f6bern Sie noch heute in unserer Kollektion von K\u00fcchenarmaturen und finden Sie die perfekte Armatur f\u00fcr Ihre K\u00fcche.",
+    "index": {
+      "title": "K\u00fcchenarmaturen-Shop: Die besten Armaturen f\u00fcr Ihre K\u00fcche",
+      "metaDescription": "K\u00fcchenarmaturen in bester Qualit\u00e4t! Auf kitchenspace24.de findest du eine gro\u00dfe Auswahl an hochwertigen K\u00fcchenarmaturen zu g\u00fcnstigen Preisen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei KitchenSpace24 - Ihrem Online-Shop f\u00fcr K\u00fcchenarmaturen",
+            "text": "KitchenSpace24 ist Ihr zuverl\u00e4ssiger Online-Shop f\u00fcr hochwertige K\u00fcchenarmaturen. Unser Sortiment umfasst eine breite Auswahl an Wandauslaufventilen, Einhebelmischern und Zweigriffarmaturen, die f\u00fcr jeden Geschmack und jeden Bedarf das passende Angebot bereithalten. Wir setzen auf Qualit\u00e4t und Langlebigkeit und bieten Ihnen darum nur Produkte renommierter Hersteller an. \u00dcberzeugen Sie sich selbst von unserem breiten Angebot und bestellen Sie noch heute Ihre neue K\u00fcchenarmatur bei KitchenSpace24."
+          },
+          {
+            "title": "Kategorie: Wandauslaufventil",
+            "text": "Entdecken Sie unsere gro\u00dfe Auswahl an Wandauslaufventilen f\u00fcr Ihre K\u00fcche. Unsere Armaturen zeichnen sich durch ihre hohe Funktionalit\u00e4t und ihr modernes Design aus. Wir bieten Ihnen eine breite Palette an verschiedenen Gr\u00f6\u00dfen, Farben und Stilen, so dass Sie das perfekte Wandauslaufventil f\u00fcr Ihre K\u00fcche finden k\u00f6nnen. Alle unsere Produkte sind aus hochwertigen Materialien gefertigt und garantieren eine lange Lebensdauer. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t unserer Wandauslaufventile und bestellen Sie noch heute Ihr neues Armaturen-Highlight!"
+          },
+          {
+            "title": "Kategorie: Einhebelmischer",
+            "text": "Einhebelmischer sind ein Muss in jeder modernen K\u00fcche. Sie bieten eine einfache Bedienung und erm\u00f6glichen es Ihnen, Wasser in den verschiedensten Strahlarten zu regulieren. Unsere Einhebelmischer zeichnen sich durch ihr hochwertiges Design und ihre langlebige Funktionalit\u00e4t aus. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Farben und Stilen, um das perfekte Armaturen-Highlight f\u00fcr Ihre K\u00fcche zu finden. \u00dcberzeugen Sie sich von der Qualit\u00e4t unserer Einhebelmischer und bestellen Sie noch heute Ihr neues Armaturen-Highlight!"
+          },
+          {
+            "title": "Kategorie: Zweigriffarmatur",
+            "text": "Unsere Zweigriffarmaturen bieten Ihnen eine komfortable Bedienung und erm\u00f6glichen es Ihnen, Wasser in den verschiedensten Strahlarten zu regulieren. Unsere Armaturen zeichnen sich durch ihr hochwertiges Design und ihre langlebige Funktionalit\u00e4t aus. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Farben und Stilen, um das perfekte Armaturen-Highlight f\u00fcr Ihre K\u00fcche zu finden. \u00dcberzeugen Sie sich von der Qualit\u00e4t unserer Zweigriffarmaturen und bestellen Sie noch heute Ihr neues Armaturen-Highlight!"
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "Küchenarmaturen: $KATEGORIE für Ihre Küche",
-        "defaultMetaDescription": "$KATEGORIE in großer Auswahl bei kitchenspace24.de. Jetzt $KATEGORIE online bestellen und schnell geliefert bekommen auf kitchenspace24.de.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "K\u00fcchenarmaturen Shop",
+      "metaDescription": "K\u00fcchenarmaturen Shop - Bei uns findest du eine gro\u00dfe Auswahl an K\u00fcchenarmaturen, Wandauslaufventil, Einhebelmischer und Zweigriffarmatur zu g\u00fcnstigen Preisen.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Küchenarmaturen von $HERSTELLER",
-        "defaultMetaDescription": "Küchenarmaturen von $HERSTELLER - hochwertige Armaturen für die Küche in modernem Design. Made in Germany. Jetzt online bestellen!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Küchenarmaturen",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Küchenarmaturen Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Küchenarmaturen Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Hersteller f\u00fcr K\u00fcchenarmaturen",
+      "metaDescription": "Entdecken Sie die gro\u00dfe Auswahl an hochwertigen K\u00fcchenarmaturenmarken bei kitchenspace24.de. Von Hansgrohe und Grohe bis hin zu Verosan und Hoga.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | kitchenspace24.de",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER in gro\u00dfer Auswahl. Finden Sie Ihre Traumarmatur f\u00fcr Ihre K\u00fcche. Viele weitere Produkte aus der Kategorie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "K\u00fcchenarmaturen: $KATEGORIE f\u00fcr Ihre K\u00fcche",
+    "defaultMetaDescription": "$KATEGORIE in gro\u00dfer Auswahl bei kitchenspace24.de. Jetzt $KATEGORIE online bestellen und schnell geliefert bekommen auf kitchenspace24.de.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "K\u00fcchenarmaturen von $HERSTELLER",
+    "defaultMetaDescription": "K\u00fcchenarmaturen von $HERSTELLER - hochwertige Armaturen f\u00fcr die K\u00fcche in modernem Design. Made in Germany. Jetzt online bestellen!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "K\u00fcchenarmaturen",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "K\u00fcchenarmaturen Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "K\u00fcchenarmaturen Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
